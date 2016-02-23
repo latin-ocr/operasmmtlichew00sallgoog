@@ -1,0 +1,42 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN"
+    "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml" xml:lang="en" lang="en">
+ <head>
+  <title>
+</title>
+<meta http-equiv="Content-Type" content="text/html;charset=utf-8" />
+  <meta name='ocr-system' content='tesseract 3.04.00' />
+  <meta name='ocr-capabilities' content='ocr_page ocr_carea ocr_par ocr_line ocrx_word'/>
+</head>
+<body>
+  <div class='ocr_page' id='page_1' title='image "./operasmmtlichew00sallgoog_0358.png"; bbox 0 0 2580 4492; ppageno 0'>
+   <div class='ocr_carea' id='block_1_1' title="bbox 240 178 964 314">
+    <p class='ocr_par' dir='ltr' id='par_1_1' title="bbox 240 178 964 314">
+     <span class='ocr_line' id='line_1_1' title="bbox 240 178 964 314; baseline 0.013 -9.267"><span class='ocrx_word' id='word_1_1' title='bbox 240 206 343 305; x_wconf 75' lang='grc' dir='ltr'>Ι</span> <span class='ocrx_word' id='word_1_2' title='bbox 416 178 946 314; x_wconf 47' lang='grc' dir='ltr'><strong>εεῗὸῗυῧῗωηε</strong></span> <span class='ocrx_word' id='word_1_3' title='bbox 943 220 964 269; x_wconf 73' lang='grc'><strong>’·</strong></span> 
+     </span>
+    </p>
+   </div>
+   <div class='ocr_carea' id='block_1_2' title="bbox 241 1717 1259 2026">
+    <p class='ocr_par' dir='ltr' id='par_1_2' title="bbox 224 1717 1276 2026">
+     <span class='ocr_line' id='line_1_2' title="bbox 241 1717 1244 1882; baseline -0.009 -8.154"><span class='ocrx_word' id='word_1_4' title='bbox 241 1717 579 1874; x_wconf 74' lang='lat' dir='ltr'><strong>stanford</strong></span> <span class='ocrx_word' id='word_1_5' title='bbox 605 1781 853 1882; x_wconf 79' lang='lat' dir='ltr'><strong>University</strong></span> <span class='ocrx_word' id='word_1_6' title='bbox 876 1726 1244 1868; x_wconf 22' lang='lat' dir='ltr'><strong>Libram*</strong></span> 
+     </span>
+     <span class='ocr_line' id='line_1_3' title="bbox 498 1886 1259 2026; baseline -0.006 -51"><span class='ocrx_word' id='word_1_7' title='bbox 498 1889 716 1989; x_wconf 75' lang='lat' dir='ltr'><strong>stanford,</strong></span> <span class='ocrx_word' id='word_1_8' title='bbox 729 1886 964 1976; x_wconf 72' lang='lat' dir='ltr'><strong>California</strong></span> <span class='ocrx_word' id='word_1_9' title='bbox 1131 2002 1143 2026; x_wconf 64' lang='lat'>,</span> <span class='ocrx_word' id='word_1_10' title='bbox 1221 1896 1276 2019; x_wconf 53' lang='lat' dir='ltr'><strong>g·</strong></span> 
+     </span>
+    </p>
+   </div>
+   <div class='ocr_carea' id='block_1_3' title="bbox 395 2211 1082 2290">
+    <p class='ocr_par' dir='ltr' id='par_1_3' title="bbox 395 2211 1082 2290">
+     <span class='ocr_line' id='line_1_4' title="bbox 395 2211 1082 2290; baseline -0.004 -2"><span class='ocrx_word' id='word_1_11' title='bbox 395 2225 510 2289; x_wconf 75' lang='lat' dir='ltr'>Return</span> <span class='ocrx_word' id='word_1_12' title='bbox 523 2216 585 2290; x_wconf 71' lang='lat' dir='ltr'><strong>tm·</strong></span> <span class='ocrx_word' id='word_1_13' title='bbox 598 2230 676 2289; x_wconf 81' lang='lat' dir='ltr'>book</span> <span class='ocrx_word' id='word_1_14' title='bbox 687 2248 726 2290; x_wconf 80' lang='lat' dir='ltr'><strong>on</strong></span> <span class='ocrx_word' id='word_1_15' title='bbox 737 2247 773 2288; x_wconf 83' lang='lat' dir='ltr'><strong>or</strong></span> <span class='ocrx_word' id='word_1_16' title='bbox 784 2211 890 2289; x_wconf 67' lang='lat' dir='ltr'>before</span> <span class='ocrx_word' id='word_1_17' title='bbox 902 2229 973 2290; x_wconf 72' lang='lat' dir='ltr'><strong>date</strong></span> <span class='ocrx_word' id='word_1_18' title='bbox 985 2228 1051 2289; x_wconf 76' lang='lat' dir='ltr'><strong>due.</strong></span> <span class='ocrx_word' id='word_1_19' title='bbox 1081 2219 1082 2222; x_wconf 62' lang='grc'>’</span> 
+     </span>
+    </p>
+   </div>
+   <div class='ocr_carea' id='block_1_4' title="bbox 0 0 1294 4492">
+    <p class='ocr_par' dir='ltr' id='par_1_4' title="bbox 0 0 1294 4492">
+     <span class='ocr_line' id='line_1_5' title="bbox 0 0 1294 4492; baseline 0 0"><span class='ocrx_word' id='word_1_20' title='bbox 0 0 1294 4492; x_wconf 95' lang='lat' dir='ltr'><strong> </strong></span> 
+     </span>
+    </p>
+   </div>
+  </div>
+ </body>
+</html>
